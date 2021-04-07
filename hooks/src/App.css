@@ -1,0 +1,24 @@
+.App {
+text-align: center;  
+}
+
+.updatebutt{
+  width: 300px;
+  font-size: 25px;
+  border: none;
+  height: 50px;
+  border-radius: 5px;
+}
+
+
+
+.updatebuttt{
+  width: 300px;
+  font-size: 25px;
+  border: none;
+  margin-left: 5px;
+  height: 50px;
+  border-radius: 5px;
+
+}
+
